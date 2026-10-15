@@ -175,6 +175,8 @@ Intent → Allowlist match? → Exact resolve? → Isolated execute
 
 Design spec. No implementation and no release. When code lands, each "design requires" item above becomes a test, and the README moves to the tested-claims format.
 
+Built by Marcus Richards, directing AI coding agents.
+
 ## License
 
 Apache License 2.0. See [`LICENSE`](./LICENSE).
