@@ -179,4 +179,4 @@ Built by Marcus Richards, directing AI coding agents.
 
 ## License
 
-Apache License 2.0. See [`LICENSE`](./LICENSE).
+Apache License 2.0. Copyright 2026 Marcus Richards. See [`LICENSE`](./LICENSE) and [`NOTICE`](./NOTICE).
