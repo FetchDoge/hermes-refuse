@@ -4,7 +4,7 @@
 
 **Specifies a macOS execution layer for agent-driven work that refuses any action that is ambiguous, over-broad or unaudited.**
 
-[![CI](https://github.com/marsojuji-cmyk/hermes-refuse/actions/workflows/ci.yml/badge.svg)](https://github.com/marsojuji-cmyk/hermes-refuse/actions/workflows/ci.yml)
+[![CI](https://github.com/FetchDoge/hermes-refuse/actions/workflows/ci.yml/badge.svg)](https://github.com/FetchDoge/hermes-refuse/actions/workflows/ci.yml)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 
 **Affiliation:** Technical artifact under **Memory Utility Labs** (lab-first public face). Product context: intended for the AEGIS / AION stack.  
